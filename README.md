@@ -47,12 +47,12 @@
 
 <h2>📚 Example Output</h2>
 <p>text</p>
-<div>
+<pre>
 The rabbit hole was very deep.
 Alice fell for a long time.
 She passed shelves with jars of orange marmalade.
 What a curious feeling.
-</div>
+</pre>
 
 <h2>🚀 Getting Started</h2>
  <ol>
