@@ -1,5 +1,5 @@
 # PRODIGY_GA_03
-#Markov Chain Text Generator
+# Markov Chain Text Generator
 
 <h2>📖 Project Overview</h2>
 <p>This project implements a text generation system using Markov chains, with both custom-built and markovify-based implementations. The generator can create coherent text by analyzing patterns in source material (like "Alice in Wonderland" from Project Gutenberg) and predicting likely sequences of characters or words.</p>
